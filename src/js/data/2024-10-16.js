@@ -71,530 +71,462 @@ dataSet[dataSetVersion].characterData = [
     name: "8-Ball",
     img: "bfdi-8ball.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st4"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Balloony",
     img: "bfdi-balloony.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st4", "ex"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Barf Bag",
     img: "bfdi-barfbag.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Basketball",
     img: "bfdi-basketball.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st2", "ex"],
-      nameless: true
+      series: ["BFDI"]
     },
   },
   {
     name: "Bell",
     img: "bfdi-bell.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st2"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Black Hole",
     img: "bfdi-blackhole.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st3"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Blocky",
     img: "bfdi-blocky.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4"],
-      nameless: true
+      series: ["BFDI"]
     }
   },
   {
     name: "Bomby",
     img: "bfdi-bomby.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4", "ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Book",
     img: "bfdi-book.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st5", "st6"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Bottle",
     img: "bfdi-bottle.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Bracelety",
     img: "bfdi-bracelety.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Bubble",
     img: "bfdi-bubble.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Cake",
     img: "bfdi-cake.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st2", "ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Clock",
     img: "bfdi-clock.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st3"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Cloudy",
     img: "bfdi-cloudy.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4", "ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Coiny",
     img: "bfdi-coiny.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
     name: "David",
     img: "bfdi-david.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Donut",
     img: "bfdi-donut.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Dora",
     img: "bfdi-dora.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st5", "st6"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Eggy",
     img: "bfdi-eggy.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st1", "st6"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Eraser",
     img: "bfdi-eraser.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Fanny",
     img: "bfdi-fanny.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["ex"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Firey",
     img: "bfdi-firey.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Firey Jr.",
     img: "bfdi-fireyjr.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Flower",
     img: "bfdi-flower.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st2"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Foldy",
     img: "bfdi-foldy.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st3", "ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Fries",
     img: "bfdi-fries.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st5"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Gaty",
     img: "bfdi-gaty.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st5"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Gelatin",
     img: "bfdi-gelatin.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Golf Ball",
     img: "bfdi-golfball.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Grassy",
     img: "bfdi-grassy.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Ice Cube",
     img: "bfdi-icecube.png",
     opts: {
-      series: [ "BFDI" ],
-      stage: ["st4"]
+      series: [ "BFDI" ]
     }
   },
   {
     name: "Leafy",
     img: "bfdi-leafy.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Lightning",
     img: "bfdi-lightning.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st5"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Liy",
     img: "bfdi-liy.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st5"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Lollipop",
     img: "bfdi-lollipop.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Loser",
     img: "bfdi-loser.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Marker",
     img: "bfdi-marker.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Match",
     img: "bfdi-match.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st2"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Naily",
     img: "bfdi-naily.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st3"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Needle",
     img: "bfdi-needle.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Nickel",
     img: "bfdi-nickel.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st5", "ex"]
+      series: ["BFDI"]
     }
   },
   {
     name: "Pen",
     img: "bfdi-pen.png",
     opts: {
-      series: ["BFDI"],
-      stage: ["st6", "ex"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Moriya Suwako",
-    img: "yJaD5ZV.png",
+    name: "Pencil",
+    img: "bfdi-pencil.png",
     opts: {
-      series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["ex"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Nagae Iku",
-    img: "xgAlECj.png",
+    name: "Pie",
+    img: "bfdi-pie.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "VD"],
-      stage: ["st5"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Hinanawi Tenshi",
-    img: "tZLYivt.png",
+    name: "Pillow",
+    img: "bfdi-pillow.png",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Kisume",
-    img: "VgJgaEf.png",
+    name: "Pin",
+    img: "bfdi-pin.png",
     opts: {
-      series: ["SA", "DS"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Kurodani Yamame",
-    img: "sqgJ2St.png",
+    name: "Puffball",
+    img: "bfdi-puffball.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st1"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Mizuhashi Parsee",
-    img: "lkoAJod.png",
+    name: "Remote",
+    img: "bfdi-remote.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st2"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Hoshiguma Yuugi",
-    img: "tDO653L.png",
+    name: "Robot Flower",
+    img: "bfdi-robotflower.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st3"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Komeiji Satori",
-    img: "dup7Nt6.png",
+    name: "Roboty",
+    img: "bfdi-roboty.png",
     opts: {
-      series: ["SA", "DS", "HM", "VD"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
-    img: "uQjbw1W.png",
+    name: "Rocky",
+    img: "bfdi-rocky.png",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st4", "st5", "st6"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
-    img: "DfdaXPW.png",
+    name: "Ruby",
+    img: "bfdi-ruby.png",
     opts: {
-      series: ["SA", "soku", "DS", "HM", "VD"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Komeiji Koishi",
-    img: "wVCcens.png",
+    name: "Saw",
+    img: "bfdi-saw.png",
     opts: {
-      series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Nazrin",
-    img: "EpHQbiY.png",
+    name: "Snowball",
+    img: "bfdi-snowball.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st1", "st5"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Tatara Kogasa",
-    img: "kJbv4dc.png",
+    name: "Spongy",
+    img: "bfdi-spongy.png",
     opts: {
-      series: ["UFO", "TD", "DS", "HM"],
-      stage: ["st2", "ex"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Kumoi Ichirin",
-    img: "Fyn5yVx.png",
+    name: "Stapy",
+    img: "bfdi-stapy.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Murasa Minamitsu",
-    img: "39KYpvW.png",
+    name: "Taco (BFDI)",
+    img: "bfdi-taco.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st4"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Toramaru Shou",
-    img: "5yihisu.png",
+    name: "Teardrop",
+    img: "bfdi-teardrop.png",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st5"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Hijiri Byakuren",
-    img: "2ppPxny.png",
+    name: "Tennis Ball",
+    img: "bfdi-tennisball.png",
     opts: {
-      series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Houjuu Nue",
-    img: "zL4S8Mj.png",
+    name: "Tree",
+    img: "bfdi-tree.png",
     opts: {
-      series: ["UFO", "DS", "TD", "HM", "VD"],
-      stage: ["st4", "st6", "ex"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Himekaidou Hatate",
-    img: "LgvoTaJ.png",
+    name: "TV",
+    img: "bfdi-tv.png",
     opts: {
-      series: ["DS", "HM", "ISC"],
-      stage: ["ex"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Sunny Milk",
-    img: "VbqXiB6.png",
+    name: "Woody",
+    img: "bfdi-woody.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Luna Child",
-    img: "OBqgP48.png",
+    name: "Yellow Face",
+    img: "bfdi-yellowface.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Star Sapphire",
-    img: "sNw61ap.png",
+    name: "Four",
+    img: "bfdi-four.png",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      series: ["BFDI"]
     }
   },
   {
-    name: "Kasodani Kyouko",
-    img: "sLiqEBA.png",
+    name: "X",
+    img: "bfdi-x.png",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st2"]
+      series: ["BFDI"]
     }
   },
   {
