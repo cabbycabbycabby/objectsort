@@ -1,30 +1,30 @@
-dataSetVersion = "2021-05-09"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-10-16"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series Entry",
-    key: "series",
-    tooltip: "Check this to restrict to certain series.",
+    name: "Filter by Show",
+    key: "show",
+    tooltip: "Check this to restrict to certain shows.",
     checked: false,
     sub: [
-      { name: "Books and CDs", key: "book" },
-      { name: "The Highly Responsive to Prayers", tooltip: "01 - Reiiden", key: "HRtP" },
-      { name: "The Story of Eastern Wonderland", tooltip: "02 - Fuumaroku", key: "SoEW" },
-      { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
-      { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
-      { name: "Mystic Square", tooltip: "05 - Kaikidan", key: "MS" },
-      { name: "Embodiment of Scarlet Devil", tooltip: "06 - Koumakan", key: "EoSD" },
-      { name: "Perfect Cherry Blossom", tooltip: "07 - Youyoumu", key: "PCB" },
-      { name: "Immaterial and Missing Power", tooltip: "07.5 - Suimusou", key: "IaMP" },
-      { name: "Imperishable Night", tooltip: "08 - Eiyashou", key: "IN" },
-      { name: "Phantasmagoria of Flower View", tooltip: "09 - Kaeidzuka", key: "PoFV" },
-      { name: "Shoot the Bullet", tooltip: "09.5 - Bunkachou", key: "StB" },
-      { name: "Mountain of Faith", tooltip: "10 - Fuujinroku", key: "MoF" },
-      { name: "Scarlet Weather Rhapsody", tooltip: "10.5 - Hisouten", key: "SWR" },
-      { name: "Subterranean Animism", tooltip: "11 - Chireiden", key: "SA" },
-      { name: "Undefined Fantastic Object", tooltip: "12 - Seirensen", key: "UFO" },
-      { name: "Touhou Hisoutensoku", tooltip: "12.3 - Hisoutensoku", key: "soku" },
+      { name: "Battle For Dream Island", key: "BFDI" },
+      { name: "Inanimate Insanity", key: "II" },
+      { name: "ONE", key: "ONE" },
+      { name: "Animatic Battle", key: "AB" },
+      { name: "Obsolete Battle Show", key: "OBS" },
+      { name: "Animated Inanimate Battle", key: "AIB" },
+      { name: "Battle For Rice", key: "BFR" },
+      { name: "Protagonist Object Show", key: "ProtOS" },
+      { name: "Take Two Sides", key: "TTS" },
+      { name: "Race To The Mansion of Tomorrow", key: "RTTMOT" },
+      { name: "Beautiful Ultimate Really Never Ending Realm", key: "BURNER" },
+      { name: "titletext", key: "titletext" },
+      { name: "Love Of The S*N", tooltip: "10 - Fuujinroku", key: "LOTS" },
+      { name: "The Nightly Manor", key: "TNM" },
+      { name: "Modern Objects", key: "MO" },
+      { name: "Showvember", key: "shvmbr" },
+      { name: "I Want In", key: "iwi" },
       { name: "Double Spoiler", tooltip: "12.5 - Bunkachou", key: "DS" },
       { name: "Great Fairy Wars", tooltip: "12.8 - Daisensou", key: "GFW" },
       { name: "Ten Desires", tooltip: "13 - Shinreibyou", key: "TD" },
@@ -68,180 +68,180 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    name: "8-Ball",
+    img: "bfdi-8ball.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
+      series: [ "BFDI" ],
       stage: ["st4"]
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Balloony",
+    img: "bfdi-balloony.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
+      series: [ "BFDI" ],
       stage: ["st4", "ex"]
     }
   },
   {
-    name: "Rumia",
-    img: "0YT7QlS.png",
+    name: "Barf Bag",
+    img: "bfdi-barfbag.png",
     opts: {
-      series: ["book", "EoSD", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st1"]
     }
   },
   {
-    name: "Daiyousei",
-    img: "NWlZud3.png",
+    name: "Basketball",
+    img: "bfdi-basketball.png",
     opts: {
-      series: ["book", "EoSD"],
+      series: ["BFDI"],
       stage: ["st2", "ex"],
       nameless: true
     },
   },
   {
-    name: "Cirno",
-    img: "qdveFSy.png",
+    name: "Bell",
+    img: "bfdi-bell.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
+      series: [ "BFDI" ],
       stage: ["st2"]
     }
   },
   {
-    name: "Hong Meiling",
-    img: "ptGp0x4.png",
+    name: "Black Hole",
+    img: "bfdi-blackhole.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "soku"],
+      series: ["BFDI"],
       stage: ["st3"]
     }
   },
   {
-    name: "Koakuma",
-    img: "vBKdDm4.png",
+    name: "Blocky",
+    img: "bfdi-blocky.png",
     opts: {
-      series: ["book", "EoSD"],
+      series: ["BFDI"],
       stage: ["st4"],
       nameless: true
     }
   },
   {
-    name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
+    name: "Bomby",
+    img: "bfdi-bomby.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
+      series: ["BFDI"],
       stage: ["st4", "ex"]
     }
   },
   {
-    name: "Izayoi Sakuya",
-    img: "sgZPf11.png",
+    name: "Book",
+    img: "bfdi-book.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC", "UM" ],
+      series: [ "BFDI" ],
       stage: ["st5", "st6"]
     }
   },
   {
-    name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
+    name: "Bottle",
+    img: "bfdi-bottle.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
+      series: ["BFDI"],
       stage: ["st6"]
     }
   },
   {
-    name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
+    name: "Bracelety",
+    img: "bfdi-bracelety.png",
     opts: {
-      series: ["book", "EoSD", "StB", "VD"],
+      series: ["BFDI"],
       stage: ["ex"]
     }
   },
   {
-    name: "Letty Whiterock",
-    img: "MgzqjFK.png",
+    name: "Bubble",
+    img: "bfdi-bubble.png",
     opts: {
-      series: ["book", "PCB", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st1"]
     }
   },
   {
-    name: "Chen",
-    img: "ohmetZh.png",
+    name: "Cake",
+    img: "bfdi-cake.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
+      series: ["BFDI"],
       stage: ["st2", "ex"]
     }
   },
   {
-    name: "Alice Margatroid",
-    img: "aDIf0pN.png",
+    name: "Clock",
+    img: "bfdi-clock.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
+      series: ["BFDI"],
       stage: ["st3"]
     }
   },
   {
-    name: "Lily White",
-    img: "2Pr8b2N.png",
+    name: "Cloudy",
+    img: "bfdi-cloudy.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
+      series: ["BFDI"],
       stage: ["st4", "ex"]
     }
   },
   {
-    name: "Lunasa Prismriver",
-    img: "htOMdDQ.png",
+    name: "Coiny",
+    img: "bfdi-coiny.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
+      series: ["BFDI"],
       stage: ["st4"]
     }
   },
   {
-    name: "Merlin Prismriver",
-    img: "PrRPujP.png",
+    name: "David",
+    img: "bfdi-david.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
+      series: ["BFDI"],
       stage: ["st4"]
     }
   },
   {
-    name: "Lyrica Prismriver",
-    img: "ze79bFC.png",
+    name: "Donut",
+    img: "bfdi-donut.png",
     opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
+      series: ["BFDI"],
       stage: ["st4"]
     }
   },
   {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
+    name: "Dora",
+    img: "bfdi-dora.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
+      series: [ "BFDI" ],
       stage: ["st5", "st6"]
     }
   },
   {
-    name: "Saigyouji Yuyuko",
-    img: "VT9mTGb.png",
+    name: "Eggy",
+    img: "bfdi-eggy.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
+      series: [ "BFDI" ],
       stage: ["st1", "st6"]
     }
   },
   {
-    name: "Yakumo Ran",
-    img: "rshnJPV.png",
+    name: "Eraser",
+    img: "bfdi-eraser.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
+      series: ["BFDI"],
       stage: ["ex"]
     }
   },
   {
-    name: "Yakumo Yukari",
-    img: "qsceD4I.png",
+    name: "Fanny",
+    img: "bfdi-fanny.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
+      series: [ "BFDI" ],
       stage: ["ex"]
     }
   },
