@@ -246,170 +246,170 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ibuki Suika",
-    img: "pLdMjQ3.png",
+    name: "Firey",
+    img: "bfdi-firey.png",
     opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
+      series: ["BFDI"],
       stage: ["st6"]
     }
   },
   {
-    name: "Wriggle Nightbug",
-    img: "8DLUAPf.png",
+    name: "Firey Jr.",
+    img: "bfdi-fireyjr.png",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st1"]
     }
   },
   {
-    name: "Mystia Lorelei",
-    img: "6KyhLqE.png",
+    name: "Flower",
+    img: "bfdi-flower.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st2"]
     }
   },
   {
-    name: "Kamishirasawa Keine",
-    img: "99w0Chm.png",
+    name: "Foldy",
+    img: "bfdi-foldy.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC"],
+      series: ["BFDI"],
       stage: ["st3", "ex"]
     }
   },
   {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
+    name: "Fries",
+    img: "bfdi-fries.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st5"]
     }
   },
   {
-    name: "Reisen Udongein Inaba",
-    img: "PrYzRcC.png",
+    name: "Gaty",
+    img: "bfdi-gaty.png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
+      series: ["BFDI"],
       stage: ["st5"]
     }
   },
   {
-    name: "Yagokoro Eirin",
-    img: "ceo4DhK.png",
+    name: "Gelatin",
+    img: "bfdi-gelatin.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
+      series: ["BFDI"],
       stage: ["st6"]
     }
   },
   {
-    name: "Houraisan Kaguya",
-    img: "2YDuTk3.png",
+    name: "Golf Ball",
+    img: "bfdi-golfball.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
+      series: ["BFDI"],
       stage: ["st6"]
     }
   },
   {
-    name: "Fujiwara no Mokou",
-    img: "3zo4VKV.png",
+    name: "Grassy",
+    img: "bfdi-grassy.png",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
+      series: ["BFDI"],
       stage: ["ex"]
     }
   },
   {
-    name: "Shameimaru Aya",
-    img: "8TLXMST.png",
+    name: "Ice Cube",
+    img: "bfdi-icecube.png",
     opts: {
-      series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
+      series: [ "BFDI" ],
       stage: ["st4"]
     }
   },
   {
-    name: "Medicine Melancholy",
-    img: "IImsp7K.png",
+    name: "Leafy",
+    img: "bfdi-leafy.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st4"]
     }
   },
   {
-    name: "Kazami Yuuka",
-    img: "MZXJQq5.png",
+    name: "Lightning",
+    img: "bfdi-lightning.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
+      series: ["BFDI"],
       stage: ["st5"]
     }
   },
   {
-    name: "Onozuka Komachi",
-    img: "aX4WIH8.png",
+    name: "Liy",
+    img: "bfdi-liy.png",
     opts: {
-      series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
+      series: ["BFDI"],
       stage: ["st5"]
     }
   },
   {
-    name: "Shiki Eiki, Yamaxanadu",
-    img: "nPBvatH.png",
+    name: "Lollipop",
+    img: "bfdi-lollipop.png",
     opts: {
-      series: ["book", "PoFV", "StB", "HM", "VD"],
+      series: ["BFDI"],
       stage: ["st6"]
     }
   },
   {
-    name: "Aki Shizuha",
-    img: "3pDRgvR.png",
+    name: "Loser",
+    img: "bfdi-loser.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
+      series: ["BFDI"],
       stage: ["st1"]
     }
   },
   {
-    name: "Aki Minoriko",
-    img: "bV0DaN7.png",
+    name: "Marker",
+    img: "bfdi-marker.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
+      series: ["BFDI"],
       stage: ["st1"]
     }
   },
   {
-    name: "Kagiyama Hina",
-    img: "J11NjNj.png",
+    name: "Match",
+    img: "bfdi-match.png",
     opts: {
-      series: ["MoF", "DS", "HM"],
+      series: ["BFDI"],
       stage: ["st2"]
     }
   },
   {
-    name: "Kawashiro Nitori",
-    img: "4Ufced2.png",
+    name: "Naily",
+    img: "bfdi-naily.png",
     opts: {
-      series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
+      series: ["BFDI"],
       stage: ["st3"]
     }
   },
   {
-    name: "Inubashiri Momiji",
-    img: "qGMjnYk.png",
+    name: "Needle",
+    img: "bfdi-needle.png",
     opts: {
-      series: ["MoF", "DS", "ISC"],
+      series: ["BFDI"],
       stage: ["st4"]
     }
   },
   {
-    name: "Kochiya Sanae",
-    img: "ATTRSWU.png",
+    name: "Nickel",
+    img: "bfdi-nickel.png",
     opts: {
-      series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK", "UM"],
+      series: ["BFDI"],
       stage: ["st5", "ex"]
     }
   },
   {
-    name: "Yasaka Kanako",
-    img: "nQ78Lz7.png",
+    name: "Pen",
+    img: "bfdi-pen.png",
     opts: {
-      series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
+      series: ["BFDI"],
       stage: ["st6", "ex"]
     }
   },
