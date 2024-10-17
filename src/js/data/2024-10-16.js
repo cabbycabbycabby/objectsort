@@ -38,6 +38,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Announcer",
+    img: "bfdi-announcer.png",
+    opts: {
+      show: [ "BFDI" ]
+    }
+  },
+  {
     name: "Balloony",
     img: "bfdi-balloony.png",
     opts: {
@@ -175,6 +182,13 @@ dataSet[dataSetVersion].characterData = [
     img: "bfdi-eraser.png",
     opts: {
       show: ["BFDI"]
+    }
+  },
+  {
+    name: "Evil Leafy",
+    img: "bfdi-evilleafy.png",
+    opts: {
+      show: [ "BFDI" ]
     }
   },
   {
@@ -318,10 +332,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nickel",
+    name: "Nickel (BFDI)",
     img: "bfdi-nickel.png",
     opts: {
       show: ["BFDI"]
+    }
+  },
+  {
+    name: "Nonexisty",
+    img: "bfdi-nonexisty.png",
+    opts: {
+      show: [ "BFDI" ]
+    }
+  },
+  {
+    name: "One",
+    img: "bfdi-one.png",
+    opts: {
+      show: [ "BFDI" ]
     }
   },
   {
@@ -360,10 +388,31 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Price Tag",
+    img: "bfdi-pricetag.png",
+    opts: {
+      show: [ "BFDI" ]
+    }
+  },
+  {
+    name: "Profily",
+    img: "bfdi-profily.png",
+    opts: {
+      show: [ "BFDI" ]
+    }
+  },
+  {
     name: "Puffball",
     img: "bfdi-puffball.png",
     opts: {
       show: ["BFDI"]
+    }
+  },
+  {
+    name: "Purple Face",
+    img: "bfdi-purpleface.png",
+    opts: {
+      show: [ "BFDI" ]
     }
   },
   {
@@ -465,6 +514,20 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Two",
+    img: "bfdi-two.png",
+    opts: {
+      show: [ "BFDI" ]
+    }
+  },
+  {
+    name: "Winner",
+    img: "bfdi-winner.png",
+    opts: {
+      show: [ "BFDI" ]
+    }
+  },
+  {
     name: "Woody",
     img: "bfdi-woody.png",
     opts: {
@@ -490,6 +553,349 @@ dataSet[dataSetVersion].characterData = [
     img: "bfdi-x.png",
     opts: {
       show: ["BFDI"]
+    }
+  },
+  {
+    name: "Apple",
+    img: "ii-apple.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Balloon",
+    img: "ii-balloon.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Ballpoint Pen",
+    img: "ii-ballpointpen.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Baseball",
+    img: "ii-baseball.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Blueberry",
+    img: "ii-blueberry.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Bomb",
+    img: "ii-bomb.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Bot",
+    img: "ii-bot.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Bow",
+    img: "ii-bow.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Box",
+    img: "ii-box.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Cabby",
+    img: "ii-cabby.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Candle",
+    img: "ii-candle.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Cheese",
+    img: "ii-cheese.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Cherries",
+    img: "ii-cherries.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Chives",
+    img: "ii-chives.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Clover",
+    img: "ii-clover.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Dough",
+    img: "ii-dough.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Dr. Fizz",
+    img: "ii-drfizz.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Fan",
+    img: "ii-fan.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Goo",
+    img: "ii-goo.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Knife",
+    img: "ii-knife.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Lifering",
+    img: "ii-lifering.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Lightbulb",
+    img: "ii-lightbulb.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Marshmallow",
+    img: "ii-marshmallow.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Mepad",
+    img: "ii-mepad.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "MePhone3GS",
+    img: "ii-mephone3gs.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "MePhone4",
+    img: "ii-mephone4.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "MePhone4S",
+    img: "ii-mephone4s.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Microphone",
+    img: "ii-microphone.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Nickel",
+    img: "ii-nickel.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "OJ",
+    img: "ii-oj.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Paintbrush",
+    img: "ii-paintbrush.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Paper",
+    img: "ii-paper.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Pepper",
+    img: "ii-pepper.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Pickle",
+    img: "ii-pickle.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Salt",
+    img: "ii-salt.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Silver Spoon",
+    img: "ii-silverspoon.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Soap",
+    img: "ii-soap.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Springy",
+    img: "ii-springy.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Steve Cobs",
+    img: "ii-stevecobs.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Suitcase",
+    img: "ii-suitcase.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Taco",
+    img: "ii-taco.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Tea Kettle",
+    img: "ii-teakettle.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Test Tube",
+    img: "ii-testtube.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "The Floor",
+    img: "ii-thefloor.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Tissues",
+    img: "ii-tissues.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Toilet",
+    img: "ii-toilet.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Trophy",
+    img: "ii-trophy.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Walkie-Talkie",
+    img: "ii-walkietalkie.png",
+    opts: {
+      show: ["II"]
+    }
+  },
+  {
+    name: "Yin Yang",
+    img: "ii-yinyang.png",
+    opts: {
+      show: ["II"]
     }
   }
 ];
